@@ -1,0 +1,23 @@
+.menu {
+    background-color: rgba(5, 33, 55, 0.976) ; 
+    padding: 10px 0; 
+}
+
+.menu ul {
+    list-style: none; 
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block; 
+    margin-right: 20px; 
+}
+
+.menu a {
+    text-decoration: none;
+    color: antiquewhite; 
+    font-weight: bold; /* Gras pour le texte du menu */
+    font-size: 16px; /* Taille du texte du menu */
+}
+
